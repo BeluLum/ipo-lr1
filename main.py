@@ -17,5 +17,5 @@ def print_fibonacci_pyramid(rows):
         print()  # Переход на новую строку
 
 # Укажите количество строк пирамиды
-rows = 6
+rows = 5
 print_fibonacci_pyramid(rows)
